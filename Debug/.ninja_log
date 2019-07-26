@@ -1,0 +1,14 @@
+# ninja log v5
+1	983	0	src/push_data_handler.o	9820b857c62d3557
+16	1730	0	src/pushreceiver.o	922d43ec610be423
+1741	4201	0	pushreceiver	d0c0ddaeaacdb12d
+18	3076	0	test	dfaddf1a0fbbc550
+69	2745	0	src/push_data_handler.o	9820b857c62d3557
+11	4544	0	src/pushreceiver.o	922d43ec610be423
+4544	5134	0	test	dfaddf1a0fbbc550
+1	269	0	clean_cov	b3de405e02eb7ca8
+269	298	0	clean_sa	46ab9549445ac981
+298	323	0	clean	d59b6dac04fa9b5d
+98	2694	0	src/push_data_handler.o	9820b857c62d3557
+33	4427	0	src/pushreceiver.o	922d43ec610be423
+4428	6908	0	test	dfaddf1a0fbbc550
